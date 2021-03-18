@@ -1,6 +1,12 @@
 # MovieCinema - Dylan Salim
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dylansalim3/MovieCinema/master/app/src/main/res/drawable/app_icon.png" alt="app-icon" height="200"/>
+</p>
 ## Description
 A Movie Database application that retrieve movies metadata from [TMDb](https://www.themoviedb.org/). This application allows user to filter and view selected movies details. 
+
+## Download 
+Download the app [here](https://github.com/dylansalim3/MovieCinema/blob/master/app/release/movie-cinema-v1.1.apk?raw=true)
 
 ## Usage Guide
 1. Create TMDb API Key [here](https://www.themoviedb.org/)
