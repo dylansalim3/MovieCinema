@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/appColor</item>
+        <item name="colorPrimaryDark">#fff</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="floatingActionButtonStyle">@style/Widget.MaterialComponents.FloatingActionButton.Tinted</item>
+    </style>
+
+    <style name="progressBarStyle" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorAccent">@color/appColor</item>
+    </style>
+
+    <style name="ListItemTitleTheme">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/roboto_slab_bold</item>
+    </style>
+
+    <style name="ButtonTitleTheme">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/buttonNavigationColor</item>
+    </style>
+
+    <style name="ListItemDescTheme">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/roboto_slab</item>
+    </style>
+
+    <style name="Widget.MaterialComponents.FloatingActionButton.Tinted">
+        <item name="backgroundTint">@color/colorAccent</item>
+    </style>
+
+    <style name="TitleText1">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:textSize">@dimen/text_title_1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TitleText2">
+        <item name="android:textSize">@dimen/text_title_2</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TitleText3">
+        <item name="android:textSize">@dimen/text_title_3</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SubtitleText1">
+        <item name="android:textSize">@dimen/text_subtitle_1</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#ffccbe</color>
+    <color name="appColor">#ffccbe</color>
+    <color name="white">#FFF</color>
+    <color name="buttonNavigationColor">#121212</color>
+    <color name="colorDarkSemiTransparent">#25000000</color>
+    <color name="ratingColor">#FFEB3B</color>
+</resources>

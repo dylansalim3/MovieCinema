@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieCinema</string>
+    <string name="retry">Retry</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="home">home</string>
+    <string name="poster_iv">poster</string>
+    <string name="filter">Filter</string>
+    <string name="order">Order</string>
+    <string name="book_movie">Book Movie</string>
+
+<!--    View Binding Template-->
+    <string name="runtime">%1$d mins</string>
+    <string name="list_title">%1$s (%2$s)</string>
+</resources>
